@@ -2,7 +2,7 @@
 My first repository
 
 # HARRY POTTER
-** by J.K. Rowling **
+**by J.K. Rowling**
 
 
 
