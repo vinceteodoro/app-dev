@@ -2,7 +2,7 @@
 My first repository
 
 # HARRY POTTER
-** by J.K. Rowling
+** by J.K. Rowling **
 
 
 
@@ -11,5 +11,6 @@ My first repository
 
 
 ## here's the Harry Potter movies in Chronological Order by Date of Release
+
 [Harry Potter Series](https://www.imdb.com/list/ls000671664/)
 
